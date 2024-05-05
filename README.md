@@ -32,6 +32,7 @@ Contributing to the open-source 💙
 
 **Learning Equality / [Kolibri Design System](https://github.com/learningequality/kolibri-design-system)**
 - [debounced updateWindow](https://github.com/learningequality/kolibri-design-system/pull/469)
+- [kselect refactor](https://github.com/learningequality/kolibri-design-system/pull/549)
 
 **Auto*Mat / [django-import-export-celery](https://github.com/auto-mat/django-import-export-celery)**
 - [use template to send mail for export job completion](https://github.com/auto-mat/django-import-export-celery/pull/91)
